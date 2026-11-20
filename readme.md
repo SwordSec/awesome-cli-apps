@@ -433,6 +433,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
 - [Mole](https://github.com/tw93/Mole) - Clean your Mac and more.
 - [Raccoon](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
+- [SwordCheck](https://github.com/SwordSec/SwordCheck) - Security check-up for your Mac: audits security settings with a score, finds known vulnerabilities, malicious npm packages and stray API keys.
 
 ### Terminal Sharing Utilities
 
